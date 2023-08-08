@@ -1,5 +1,20 @@
 # Changelog
 
+## [5.5.1](https://github.com/markdown-confluence/markdown-confluence/compare/@markdown-confluence/mermaid-puppeteer-renderer-v5.5.0...@markdown-confluence/mermaid-puppeteer-renderer-v5.5.1) (2023-08-08)
+
+
+### Dependencies
+
+* **deps:** bump mermaid in /packages/mermaid-puppeteer-renderer ([386fa2c](https://github.com/markdown-confluence/markdown-confluence/commit/386fa2c31a98d982d08e4009459f66f843857ba4))
+* **deps:** bump mermaid in /packages/mermaid-puppeteer-renderer ([9d57988](https://github.com/markdown-confluence/markdown-confluence/commit/9d579880906e499e8b3144042246f6abce790440))
+* **deps:** bump puppeteer from 20.7.3 to 20.8.0 ([16267cd](https://github.com/markdown-confluence/markdown-confluence/commit/16267cdbaa87626c523f83556e0bb725d63431ba))
+* **deps:** bump puppeteer in /packages/mermaid-puppeteer-renderer ([a681954](https://github.com/markdown-confluence/markdown-confluence/commit/a6819545fcede72fbb647588a5d88bea0d3f69b8))
+* **deps:** bump puppeteer in /packages/mermaid-puppeteer-renderer ([1085023](https://github.com/markdown-confluence/markdown-confluence/commit/108502344b9c18d9d5a0ca8b4e45560211dbd3fa))
+* **deps:** bump puppeteer in /packages/mermaid-puppeteer-renderer ([5d63b3b](https://github.com/markdown-confluence/markdown-confluence/commit/5d63b3b4d23c7c2a40a9432b491a9a04471e8df4))
+* The following workspace dependencies were updated
+  * dependencies
+    * @markdown-confluence/lib bumped from 5.5.0 to 5.5.1
+
 ## [5.5.0](https://github.com/markdown-confluence/markdown-confluence/compare/@markdown-confluence/mermaid-puppeteer-renderer-v5.4.0...@markdown-confluence/mermaid-puppeteer-renderer-v5.5.0) (2023-06-29)
 
 
