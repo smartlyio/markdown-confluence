@@ -3,6 +3,7 @@
 import { defaultSchema } from "@atlaskit/adf-schema/schema-default";
 import { Transformer } from "@atlaskit/editor-common/types";
 import MarkdownIt from "markdown-it";
+// @ts-ignore
 import { markdownItTable } from "markdown-it-table";
 import { MarkdownParser } from "prosemirror-markdown";
 import { Schema, Node as PMNode } from "prosemirror-model";
@@ -177,7 +178,7 @@ export class MarkdownTransformer implements Transformer<Markdown> {
 		this.markdownParser = new MarkdownParser(
 			schema,
 			tokenizer,
-			filterMdToPmSchemaMapping(schema, mdToPmMapping)
+			filterMdToPmSchemaMapping(schema, mdToPmMapping),
 		);
 	}
 	encode(_node: PMNode): Markdown {
